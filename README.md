@@ -43,7 +43,8 @@ Customer segmentation analysis.
 Product performance dashboards.
 
 ### Example Visualizations
-
+![Mudumby_Srujana_EDA3](https://github.com/user-attachments/assets/5960d8bb-1936-4316-9b9e-4a8215469ab0)
+![Mudumby_Srujana_Clustering3](https://github.com/user-attachments/assets/750c8e06-3536-47c7-b11a-4e535b98d030)
 
 ## Results
 Key findings from the analysis include:
@@ -57,7 +58,4 @@ Key findings from the analysis include:
 ## Usage
 - Open the Jupyter Notebooks/VSCode in your preferred environment.
 - Follow the instructions in the notebooks to run the analysis and generate visualizations.
----
 
-### Including Visualizations
-To access the 
